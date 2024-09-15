@@ -15,8 +15,8 @@ NoSQL
 
 - Cassandra
 
-Credits:
---------
+Credits
+-------
 [cloud.google.com](https://cloud.google.com/)  
 [aws.amazon.com](https://aws.amazon.com/)  
 [azure.microsoft.com](https://azure.microsoft.com/)  
