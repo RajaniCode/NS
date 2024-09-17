@@ -9,10 +9,10 @@ Java MongoDB
 
 - MongoDB 3.2.8
 
-Credits:
---------
-https://openjdk.org/  
-https://java.com/  
-https://maven.apache.org/  
-https://spark.apache.org/  
-https://mongodb.com/
+Credits
+-------
+[openjdk.org](https://openjdk.org/)  
+[java.com](https://java.com/)  
+[maven.apache.org](https://maven.apache.org/)  
+[spark.apache.org](https://spark.apache.org/)  
+[mongodb.com](https://mongodb.com/)
