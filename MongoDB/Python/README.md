@@ -9,9 +9,9 @@ Python MongoDB
 
 - MongoDB 3.2.8
 
-Credits:
---------
-https://python.org/  
-https://pypi.org/  
-https://bottlepy.org/  
-https://mongodb.com/
+Credits
+-------
+[python.org](https://python.org/)  
+[pypi.org](https://pypi.org/)  
+[bottlepy.org](https://bottlepy.org/)  
+[mongodb.com](https://mongodb.com/)
