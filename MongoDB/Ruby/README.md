@@ -7,8 +7,8 @@ Ruby MongoDB
 
 - MongoDB 3.2.8
 
-Credits:
---------
-https://ruby-lang.org/  
-https://rubygems.org/  
-https://mongodb.com/
+Credits
+-------
+[ruby-lang.org](https://ruby-lang.org/)  
+[rubygems.org](https://rubygems.org/)  
+[mongodb.com](https://mongodb.com/)
