@@ -1,14 +1,16 @@
-Node.js MongoDB
----------------
+MongoDB
+-------
 
-- Node.js 4.4.7
+- MongoDB
 
-- NPM 2.15.8
-
-- MongoDB 3.2.8
-
-Credits:
---------
-https://nodejs.org/  
-https://npmjs.com/  
-https://mongodb.com/
+Credits
+-------
+[mongodb.com](https://mongodb.com/)  
+[kubernetes.io](https://kubernetes.io/)  
+[microk8s.io](https://microk8s.io/)  
+[multipass.run](https://multipass.run/)  
+[ubuntu.com](https://ubuntu.com/)  
+[nginx.org](https://nginx.org/)  
+[nodejs.org](https://nodejs.org/)  
+[npmjs.com](https://npmjs.com/)  
+[expressjs.com](https://expressjs.com/)
