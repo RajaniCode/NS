@@ -26,8 +26,6 @@ Badges/azure.microsoft.com.svg?raw=true)](https://azure.microsoft.com)
 [![image](
 Badges/mongodb.com.svg?raw=true)](https://mongodb.com)  
 [![image](
-Badges/openjdk.org.svg?raw=true)](https://openjdk.org)  
-[![image](
 Badges/nodejs.org.svg?raw=true)](https://nodejs.org)  
 [![image](
 Badges/openjdk.org.svg?raw=true)](https://openjdk.org)  
