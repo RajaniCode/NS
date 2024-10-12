@@ -28,6 +28,14 @@ Badges/java.com.svg?raw=true)](https://java.com)
 [![image](
 Badges/ruby-lang.org.svg?raw=true)](https://ruby-lang.org)  
 
+[![image](
+Badges/couchdb.apache.org.svg?raw=true)](https://couchdb.apache.org)  
+[![image](
+Badges/cassandra.apache.org.svg?raw=true)](https://cassandra.apache.org)  
+
+
+
+
 
 [cloud.google.com](https://cloud.google.com/)  
 [aws.amazon.com](https://aws.amazon.com/)  
@@ -40,5 +48,5 @@ Badges/ruby-lang.org.svg?raw=true)](https://ruby-lang.org)
 [java.com](https://java.com/)  
 [ruby-lang.org](https://ruby-lang.org/)  
 [redis.io](https://redis.io/)  
-[couchdb.apache.org](https://couchdb.apache.org/)  
-[cassandra.apache.org](https://cassandra.apache.org/)
+[couchdb.apache.org](https:///)  
+[cassandra.apache.org](https:///)
