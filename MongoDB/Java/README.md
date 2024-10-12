@@ -12,7 +12,7 @@ Java MongoDB
 Credits
 -------
 [![image](
-Badges/openjdk.org].svg?raw=true)](https://openjdk.org])  
+Badges/openjdk.org.svg?raw=true)](https://openjdk.org)  
 [![image](
 Badges/java.com.svg?raw=true)](https://java.com)  
 [![image](
