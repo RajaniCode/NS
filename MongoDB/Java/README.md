@@ -14,7 +14,7 @@ Credits
 [![image](
 Badges/openjdk.org.svg?raw=true)](https://openjdk.org)  
 [![image](
-Badges/java.com.svg?raw=true)](https://java.com)  
+Badges/Java-oracle.com.svg?raw=true)](https://oracle.com/java)  
 [![image](
 Badges/maven.apache.org.svg?raw=true)](https://maven.apache.org)  
 [![image](
