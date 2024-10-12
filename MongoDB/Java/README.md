@@ -21,9 +21,3 @@ Badges/maven.apache.org.svg?raw=true)](https://maven.apache.org)
 Badges/spark.apache.org.svg?raw=true)](https://spark.apache.org)  
 [![image](
 Badges/mongodb.com.svg?raw=true)](https://mongodb.com)  
-
-[openjdk.org](https://openjdk.org/)  
-[java.com](https://java.com/)  
-[maven.apache.org](https://maven.apache.org/)  
-[spark.apache.org](https://spark.apache.org/)  
-[mongodb.com](https://mongodb.com/)
