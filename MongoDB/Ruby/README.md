@@ -9,6 +9,9 @@ Ruby MongoDB
 
 Credits
 -------
-[ruby-lang.org](https://ruby-lang.org/)  
-[rubygems.org](https://rubygems.org/)  
-[mongodb.com](https://mongodb.com/)
+[![image](
+Badges/ruby-lang.org.svg?raw=true)](https://ruby-lang.org) 
+[![image](
+Badges/rubygems.org.svg?raw=true)](https://rubygems.org)  
+[![image](
+Badges/mongodb.com.svg?raw=true)](https://mongodb.com)  
