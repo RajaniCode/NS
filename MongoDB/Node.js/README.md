@@ -15,6 +15,9 @@ Badges/nodejs.org.svg?raw=true)](https://nodejs.org)
 Badges/npmjs.com.svg?raw=true)](https://npmjs.com)  
 [![image](
 Badges/expressjs.com.svg?raw=true)](https://expressjs.com)  
-
+[![image](
+Badges/javascript.com.svg?raw=true)](https://javascript.com)  
+[![image](
+Badges/developer.mozilla.org.svg?raw=true)](https://developer.mozilla.org)  
 [![image](
 Badges/mongodb.com.svg?raw=true)](https://mongodb.com)  
