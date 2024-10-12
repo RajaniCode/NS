@@ -12,6 +12,6 @@ Credits
 [![image](
 Badges/nodejs.org.svg?raw=true)](https://nodejs.org)  
 [![image](
-Badges/npmjs.org.svg?raw=true)](https://npmjs.org)  
+Badges/npmjs.com.svg?raw=true)](https://npmjs.com)  
 [![image](
-Badges/mongodb.org.svg?raw=true)](https://mongodb.org)  
+Badges/mongodb.com.svg?raw=true)](https://mongodb.com)  
