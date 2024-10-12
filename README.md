@@ -27,7 +27,8 @@ Badges/openjdk.org.svg?raw=true)](https://openjdk.org)
 Badges/java.com.svg?raw=true)](https://java.com)  
 [![image](
 Badges/ruby-lang.org.svg?raw=true)](https://ruby-lang.org)  
-
+[![image](
+Badges/redis.io.svg?raw=true)](https://redis.io)  
 [![image](
 Badges/couchdb.apache.org.svg?raw=true)](https://couchdb.apache.org)  
 [![image](
