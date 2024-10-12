@@ -30,9 +30,9 @@ Badges/openjdk.org.svg?raw=true)](https://openjdk.org)
 [![image](
 Badges/nodejs.org.svg?raw=true)](https://nodejs.org)  
 [![image](
-Badges/Java-oracle.com.svg?raw=true)](https://oracle.com/java)  
+Badges/openjdk.org.svg?raw=true)](https://openjdk.org)  
 [![image](
-Badges/java.com.svg?raw=true)](https://java.com)  
+Badges/Java-oracle.com.svg?raw=true)](https://oracle.com/java)  
 [![image](
 Badges/ruby-lang.org.svg?raw=true)](https://ruby-lang.org)  
 [![image](
