@@ -10,7 +10,7 @@ Ruby MongoDB
 Credits
 -------
 [![image](
-Badges/ruby-lang.org.svg?raw=true)](https://ruby-lang.org) 
+Badges/ruby-lang.org.svg?raw=true)](https://ruby-lang.org)  
 [![image](
 Badges/rubygems.org.svg?raw=true)](https://rubygems.org)  
 [![image](
