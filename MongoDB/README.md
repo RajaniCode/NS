@@ -14,7 +14,7 @@ Badges/microk8s.io.svg?raw=true)](https://microk8s.io)
 [![image](
 Badges/ubuntu.com.svg?raw=true)](https://ubuntu.com)  
 [![image](
-Badges/multipass.run.svg?raw=true)](https://multipass.run)  
+Badges/multipass1.run.svg?raw=true)](https://multipass.run)  
 [![image](
 Badges/nginx.org.svg?raw=true)](https://nginx.org)  
 [![image](
