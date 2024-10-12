@@ -30,7 +30,7 @@ Badges/nodejs.org.svg?raw=true)](https://nodejs.org)
 [![image](
 Badges/python.org.svg?raw=true)](https://python.org)  
 [![image](
-Badges/openjdk.org.svg?raw=true)](https://openjdk.org)  
+Badges/Java-oracle.com.svg?raw=true)](https://oracle.com/java)  
 [![image](
 Badges/java.com.svg?raw=true)](https://java.com)  
 [![image](
