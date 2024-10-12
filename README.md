@@ -18,6 +18,12 @@ NoSQL
 Credits
 -------
 [![image](
+Badges/cloud.google.com.svg?raw=true)](https://cloud.google.com)  
+[![image](
+Badges/aws.amazon.com.svg?raw=true)](https://aws.amazon.com)  
+[![image](
+Badges/azure.microsoft.com.svg?raw=true)](https://azure.microsoft.com)  
+[![image](
 Badges/nodejs.org.svg?raw=true)](https://nodejs.org)  
 [![image](
 Badges/python.org.svg?raw=true)](https://python.org)  
