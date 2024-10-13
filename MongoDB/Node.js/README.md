@@ -12,7 +12,7 @@ Credits
 [![image](
 Credits/nodejs.org.svg?raw=true)](https://nodejs.org)  
 [![image](
-Credits/npmjs.com.svg?raw=true)](https://npmjs.com)  
+Credits/npmjs.com1.svg?raw=true)](https://npmjs.com)  
 [![image](
 Credits/expressjs.com.svg?raw=true)](https://expressjs.com)  
 [![image](
