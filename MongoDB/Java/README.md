@@ -12,12 +12,12 @@ Java MongoDB
 Credits
 -------
 [![image](
-Badges/openjdk.org.svg?raw=true)](https://openjdk.org)  
+Credits/openjdk.org.svg?raw=true)](https://openjdk.org)  
 [![image](
-Badges/Java-oracle.com.svg?raw=true)](https://oracle.com/java)  
+Credits/Java-oracle.com.svg?raw=true)](https://oracle.com/java)  
 [![image](
-Badges/maven.apache.org.svg?raw=true)](https://maven.apache.org)  
+Credits/maven.apache.org.svg?raw=true)](https://maven.apache.org)  
 [![image](
-Badges/spark.apache.org.svg?raw=true)](https://spark.apache.org)  
+Credits/spark.apache.org.svg?raw=true)](https://spark.apache.org)  
 [![image](
-Badges/mongodb.com.svg?raw=true)](https://mongodb.com)  
+Credits/mongodb.com.svg?raw=true)](https://mongodb.com)  
