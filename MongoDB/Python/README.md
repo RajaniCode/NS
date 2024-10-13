@@ -12,10 +12,10 @@ Python MongoDB
 Credits
 -------
 [![image](
-Badges/python.org.svg?raw=true)](https://python.org)  
+Credits/python.org.svg?raw=true)](https://python.org)  
 [![image](
-Badges/pypi.org.svg?raw=true)](https://pypi.org)  
+Credits/pypi.org.svg?raw=true)](https://pypi.org)  
 [![image](
-Badges/bottlepy.org.svg?raw=true)](https://bottlepy.org)  
+Credits/bottlepy.org.svg?raw=true)](https://bottlepy.org)  
 [![image](
-Badges/mongodb.com.svg?raw=true)](https://mongodb.com)  
+Credits/mongodb.com.svg?raw=true)](https://mongodb.com)  
