@@ -32,6 +32,8 @@ Credits/openjdk.org.svg?raw=true)](https://openjdk.org/)
 [![image](
 Credits/Java-oracle.com.svg?raw=true)](https://oracle.com/java/)  
 [![image](
+Credits/python.org.svg?raw=true)](https://python.org/)  
+[![image](
 Credits/ruby-lang.org.svg?raw=true)](https://ruby-lang.org/)  
 [![image](
 Credits/redis.io.svg?raw=true)](https://redis.io/)  
