@@ -8,6 +8,8 @@ Credits
 [![image](
 Credits/mongodb.com.svg)](https://mongodb.com/)  
 [![image](
+Credits/spark.apache.org.svg)](https://spark.apache.org/)  
+[![image](
 Credits/kubernetes.io.svg)](https://kubernetes.io/)  
 [![image](
 Credits/microk8s.io.svg)](https://microk8s.io/)  
