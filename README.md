@@ -1,31 +1,43 @@
-MongoDB
--------
+NoSQL
+-----
+
+- Google Cloud NoSQL
+
+- Amazon Web Services NoSQL
+
+- Azure NoSQL
 
 - MongoDB
+
+- Redis
+
+- CouchDB
+
+- Cassandra
 
 Credits
 -------
 [![image](
+Credits/cloud.google.com.svg)](https://cloud.google.com/)  
+[![image](
+Credits/aws.amazon.com.svg)](https://aws.amazon.com/)  
+[![image](
+Credits/azure.microsoft.com.svg)](https://azure.microsoft.com/)  
+[![image](
 Credits/mongodb.com.svg)](https://mongodb.com/)  
-[![image](
-Credits/studio3t.com.svg)](https://studio3t.com/)  
-[![image](
-Credits/spark.apache.org.svg)](https://spark.apache.org/)  
-[![image](
-Credits/kubernetes.io.svg)](https://kubernetes.io/)  
-[![image](
-Credits/microk8s.io.svg)](https://microk8s.io/)  
-[![image](
-Credits/docker.com.svg)](https://docker.com/)  
-[![image](
-Credits/ubuntu.com.svg)](https://ubuntu.com/)  
-[![image](
-Credits/multipass.run.svg)](https://multipass.run/)  
-[![image](
-Credits/nginx.org.svg)](https://nginx.org/)  
 [![image](
 Credits/nodejs.org.svg)](https://nodejs.org/)  
 [![image](
-Credits/npmjs.com.svg)](https://npmjs.com/)  
+Credits/openjdk.org.svg)](https://openjdk.org/)  
 [![image](
-Credits/expressjs.com.svg)](https://expressjs.com/)
+Credits/Java-oracle.com.svg)](https://oracle.com/java/)  
+[![image](
+Credits/python.org.svg)](https://python.org/)  
+[![image](
+Credits/ruby-lang.org.svg)](https://ruby-lang.org/)  
+[![image](
+Credits/redis.io.svg)](https://redis.io/)  
+[![image](
+Credits/couchdb.apache.org.svg)](https://couchdb.apache.org/)  
+[![image](
+Credits/cassandra.apache.org.svg)](https://cassandra.apache.org/)
