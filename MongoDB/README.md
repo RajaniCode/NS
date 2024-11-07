@@ -36,4 +36,10 @@ Credits/nodejs.org.svg)](https://nodejs.org/)
 [![image](
 Credits/npmjs.com.svg)](https://npmjs.com/)  
 [![image](
-Credits/expressjs.com.svg)](https://expressjs.com/)
+Credits/expressjs.com.svg)](https://expressjs.com/)  
+[![image](
+Credits/python.org.svg)](https://python.org/)  
+[![image](
+Credits/pypi.org.svg)](https://pypi.org/)  
+[![image](
+Credits/flask.palletsprojects.com.svg)](https://flask.palletsprojects.com/)
