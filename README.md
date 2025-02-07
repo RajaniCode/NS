@@ -1,13 +1,13 @@
 NoSQL
 -----
 
+- MongoDB
+
 - Google Cloud NoSQL
 
 - Amazon Web Services NoSQL
 
 - Azure NoSQL
-
-- MongoDB
 
 - Redis
 
@@ -18,13 +18,13 @@ NoSQL
 Credits
 -------
 [![image](
+Credits/mongodb.com.svg)](https://mongodb.com/)  
+[![image](
 Credits/cloud.google.com.svg)](https://cloud.google.com/)  
 [![image](
 Credits/aws.amazon.com.svg)](https://aws.amazon.com/)  
 [![image](
 Credits/azure.microsoft.com.svg)](https://azure.microsoft.com/)  
-[![image](
-Credits/mongodb.com.svg)](https://mongodb.com/)  
 [![image](
 Credits/nodejs.org.svg)](https://nodejs.org/)  
 [![image](
