@@ -22,7 +22,7 @@ Credits/mongodb.com.svg)](https://mongodb.com/)
 [![image](
 Credits/cloud.google.com.svg)](https://cloud.google.com/products/datastore/)  
 [![image](
-Credits/aws.amazon.com.svg)](https://https://aws.amazon.com/pm/dynamodb/)  
+Credits/aws.amazon.com.svg)](https://aws.amazon.com/dynamodb/)  
 [![image](
 Credits/azure.microsoft.com.svg)](https://azure.microsoft.com/products/cosmos-db/)  
 [![image](
